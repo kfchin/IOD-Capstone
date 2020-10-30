@@ -6,5 +6,6 @@ The performance of each model was compared with actual values based on visualisa
 Percentage Error (MAPE). The project has resulted in a satisfactory outcome where it provided recommendations on the most appropriate model for 
 forecasting energy consumption for an electrical distribution network.
 
-The report also documents additional work to explore further to this project. This includes the possible pipeline that can be used to forecast energy consumption for other electrical distribution networks. Besides energy consumption, this pipeline can assist in forecasting consumption of resources 
-to generate energy.
+The report also documents additional work to explore further to this project. This includes the possible pipeline that can be used to forecast 
+energy consumption for other electrical distribution networks. Besides energy consumption, this pipeline can assist in forecasting consumption of 
+resources to generate energy.
